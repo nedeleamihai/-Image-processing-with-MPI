@@ -1,0 +1,26 @@
+Trace file E:\APP\NEDELEA\VIRTUAL\diag\rdbms\nedelea\nedelea\trace\nedelea_svcb_8104.trc
+Oracle Database 12c Enterprise Edition Release 12.2.0.1.0 - 64bit Production
+Build label:    RDBMS_12.2.0.1.0_WINDOWS.X64_170210.4
+Windows NT Version V6.2  
+ORACLE_HOME =  E:\app\nedelea\virtual\product\12.2.0\dbhome_1
+Node name           : MIHAI
+CPU                 : 8 - type 8664, 4 Physical Cores
+Process Affinity    : 0x0x0000000000000000
+Memory (Avail/Total): Ph:1024M/8080M, Ph+
+Instance name: nedelea
+Redo thread mounted by this instance: 0 <none>
+Oracle process number: 11
+Windows thread id: 8104, image: ORACLE.EXE (SVCB)
+
+
+*** 2019-04-12T10:28:29.662437+03:00 (CDB$ROOT(1))
+*** SESSION ID:(371.28402) 2019-04-12T10:28:29.662437+03:00
+*** CLIENT ID:() 2019-04-12T10:28:29.960953+03:00
+*** SERVICE NAME:() 2019-04-12T10:28:29.960953+03:00
+*** MODULE NAME:() 2019-04-12T10:28:29.960953+03:00
+*** ACTION NAME:() 2019-04-12T10:28:29.960953+03:00
+*** CLIENT DRIVER:() 2019-04-12T10:28:29.960953+03:00
+*** CONTAINER ID:(1) 2019-04-12T10:28:29.960953+03:00
+ 
+ksws_bg_main: starting background process
+            : configured with 8200 services

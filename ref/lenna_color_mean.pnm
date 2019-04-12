@@ -1,0 +1,29 @@
+Trace file E:\APP\NEDELEA\VIRTUAL\diag\rdbms\nedelea\nedelea\trace\nedelea_vktm_14332.trc
+Oracle Database 12c Enterprise Edition Release 12.2.0.1.0 - 64bit Production
+Build label:    RDBMS_12.2.0.1.0_WINDOWS.X64_170210.4
+Windows NT Version V6.2  
+ORACLE_HOME =  E:\app\nedelea\virtual\product\12.2.0\dbhome_1
+Node name           : MIHAI
+CPU                 : 8 - type 8664, 4 Physical Cores
+Process Affinity    : 0x0x0000000000000000
+Memory (Avail/Total): Ph:2959M/8080M, Ph+
+Instance name: nedelea
+Redo thread mounted by this instance: 0 <none>
+Oracle process number: 5
+Windows thread id: 14332, image: ORACLE.EXE (VKTM)
+
+
+*** 2019-04-12T10:28:24.045483+03:00 (CDB$ROOT(1))
+*** SESSION ID:(616.64034) 2019-04-12T10:28:24.045483+03:00
+*** CLIENT ID:() 2019-04-12T10:28:24.045483+03:00
+*** SERVICE NAME:() 2019-04-12T10:28:24.045483+03:00
+*** MODULE NAME:() 2019-04-12T10:28:24.046489+03:00
+*** ACTION NAME:() 2019-04-12T10:28:24.046489+03:00
+*** CLIENT DRIVER:() 2019-04-12T10:28:24.046489+03:00
+*** CONTAINER ID:(1) 2019-04-12T10:28:24.046489+03:00
+ 
+kstmmainvktm: succeeded in setting elevated priority
+highres_enabled
+VKTM running at (5)millisec precision with DBRM quantum (100)ms
+[Start] HighResTick = 26115023244
+kstmrmtickcnt = 0 : ksudbrmseccnt[0] = 1555054104

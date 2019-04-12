@@ -1,0 +1,28 @@
+Trace file E:\APP\NEDELEA\VIRTUAL\diag\rdbms\nedelea\nedelea\trace\nedelea_vkrm_8756.trc
+Oracle Database 12c Enterprise Edition Release 12.2.0.1.0 - 64bit Production
+Build label:    RDBMS_12.2.0.1.0_WINDOWS.X64_170210.4
+Windows NT Version V6.2  
+ORACLE_HOME =  E:\app\nedelea\virtual\product\12.2.0\dbhome_1
+Node name           : MIHAI
+CPU                 : 8 - type 8664, 4 Physical Cores
+Process Affinity    : 0x0x0000000000000000
+Memory (Avail/Total): Ph:983M/8080M, Ph+P
+Instance name: nedelea
+Redo thread mounted by this instance: 0 <none>
+Oracle process number: 10
+Windows thread id: 8756, image: ORACLE.EXE (VKRM)
+
+
+*** 2019-04-12T10:28:26.588098+03:00 (CDB$ROOT(1))
+*** SESSION ID:(248.50249) 2019-04-12T10:28:26.588098+03:00
+*** CLIENT ID:() 2019-04-12T10:28:26.589101+03:00
+*** SERVICE NAME:() 2019-04-12T10:28:26.589101+03:00
+*** MODULE NAME:() 2019-04-12T10:28:26.589101+03:00
+*** ACTION NAME:() 2019-04-12T10:28:26.589101+03:00
+*** CLIENT DRIVER:() 2019-04-12T10:28:26.589101+03:00
+*** CONTAINER ID:(1) 2019-04-12T10:28:26.589101+03:00
+ 
+VKRM scheduling interval:(10)ms
+VKRM uses high resolution time: last active time=(0) current time=(26117561973)
+maxcap history reset period=(12700)ms
+maxcap period=(1270)ms

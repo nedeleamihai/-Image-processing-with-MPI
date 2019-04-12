@@ -1,0 +1,71 @@
+Dump file e:\app\nedelea\virtual\product\12.2.0\dbhome_1\rdbms\trace\nedelea_ora_8096.trc
+Fri Apr 12 10:21:18 2019
+ORACLE V12.2.0.1.0 - 64bit Production vsnsta=0
+vsnsql=18 vsnxtr=3
+
+*** 2019-04-12T10:21:08.277870+03:00
+
+Oracle Database 12c Enterprise Edition Release 12.2.0.1.0 - 64bit Production
+
+*** 2019-04-12T10:21:19.605163+03:00
+
+Build label:    RDBMS_12.2.0.1.0_WINDOWS.X64_170210.4
+Windows NT Version V6.2  
+ORACLE_HOME =  E:\app\nedelea\virtual\product\12.2.0\dbhome_1
+Node name           : MIHAI
+CPU                 : 8 - type 8664, 4 Physical Cores
+Process Affinity    : 0x0x0000000000000000
+Memory (Avail/Total): Ph:5525M/8080M, Ph+
+
+*** 2019-04-12T10:21:21.011340+03:00
+
+Storage:	?
+
+Instance name: nedelea
+
+Redo thread mounted by this instance: 0 <none>
+
+Oracle process number: 0
+
+Windows thread id: 8096, image: 
+
+
+
+*** 2019-04-12T10:21:21.151953+03:00
+
+2019-04-12 10:21:07.824 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\olr cannot be opened. error 2
+
+*** 2019-04-12T10:21:23.589280+03:00
+
+2019-04-12 10:21:23.589 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\olr cannot be opened. error 2
+
+*** 2019-04-12T10:21:48.806201+03:00
+
+2019-04-12 10:21:48.806 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\olr cannot be opened. error 2
+2019-04-12 10:21:48.806 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\ocr cannot be opened. error 2
+2019-04-12 10:21:48.915 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\olr cannot be opened. error 2
+2019-04-12 10:21:48.915 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\ocr cannot be opened. error 2
+
+*** 2019-04-12T10:21:58.178031+03:00
+
+2019-04-12 10:21:58.178 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\olr cannot be opened. error 2
+2019-04-12 10:21:58.178 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\ocr cannot be opened. error 2
+
+*** 2019-04-12T10:21:59.568557+03:00
+
+KJHA:2phase 210 usecnt:0 tha start prepare
+KJHA:2phase 510 usecnt:0 clscrs_init_api kjha_trace:00007FF726E5C250 flag:840
+
+*** 2019-04-12T10:22:01.037141+03:00
+
+2019-04-12 10:22:01.037 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\olr cannot be opened. error 2
+
+*** 2019-04-12T10:22:03.099549+03:00
+
+2019-04-12 10:22:03.099 : [ default][ default]ut_read_reg:2:ocr registry key SOFTWARE\Oracle\olr cannot be opened. error 2
+
+*** 2019-04-12T10:22:04.130721+03:00
+
+KJHA: kjha_doDBAction2 200 clsrapi_start_db prepare ret:184
+KJHA: kjha_doDBAction2 990 clscrs_stat:184
+KJHA:2phase 660 clscrs_stat statret:184 usecnt:0 env id: ctx id:
